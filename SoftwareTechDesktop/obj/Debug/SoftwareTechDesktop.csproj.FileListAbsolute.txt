@@ -1,0 +1,12 @@
+C:\Users\EXCALIBUR\source\repos\SoftwareTechDesktop\SoftwareTechDesktop\bin\Debug\SoftwareTechDesktop.exe.config
+C:\Users\EXCALIBUR\source\repos\SoftwareTechDesktop\SoftwareTechDesktop\bin\Debug\SoftwareTechDesktop.exe
+C:\Users\EXCALIBUR\source\repos\SoftwareTechDesktop\SoftwareTechDesktop\bin\Debug\SoftwareTechDesktop.pdb
+C:\Users\EXCALIBUR\source\repos\SoftwareTechDesktop\SoftwareTechDesktop\obj\Debug\SoftwareTechDesktop.csproj.AssemblyReference.cache
+C:\Users\EXCALIBUR\source\repos\SoftwareTechDesktop\SoftwareTechDesktop\obj\Debug\SoftwareTechDesktop.Form1.resources
+C:\Users\EXCALIBUR\source\repos\SoftwareTechDesktop\SoftwareTechDesktop\obj\Debug\SoftwareTechDesktop.Properties.Resources.resources
+C:\Users\EXCALIBUR\source\repos\SoftwareTechDesktop\SoftwareTechDesktop\obj\Debug\SoftwareTechDesktop.csproj.GenerateResource.cache
+C:\Users\EXCALIBUR\source\repos\SoftwareTechDesktop\SoftwareTechDesktop\obj\Debug\SoftwareTechDesktop.csproj.CoreCompileInputs.cache
+C:\Users\EXCALIBUR\source\repos\SoftwareTechDesktop\SoftwareTechDesktop\obj\Debug\SoftwareTechDesktop.exe
+C:\Users\EXCALIBUR\source\repos\SoftwareTechDesktop\SoftwareTechDesktop\obj\Debug\SoftwareTechDesktop.pdb
+C:\Users\EXCALIBUR\source\repos\SoftwareTechDesktop\SoftwareTechDesktop\obj\Debug\SoftwareTechDesktop.AdminAnaSayfa.resources
+C:\Users\EXCALIBUR\source\repos\SoftwareTechDesktop\SoftwareTechDesktop\obj\Debug\SoftwareTechDesktop.OgrAnaSayfa.resources
